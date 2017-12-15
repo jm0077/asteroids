@@ -436,9 +436,9 @@ Ship = function () {
 				  bullet.vel.y = 6 * vectory + this.vel.y;
 				  bullet.visible = true;
 				  break;
-          }
-        }
-      }
+				}
+			}
+		}
     }
 
     // limit the ship's speed
